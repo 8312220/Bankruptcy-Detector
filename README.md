@@ -1,6 +1,6 @@
 # Bankruptcy-Prediction
 
-![Cover Image](cover.png)
+![Cover Image](Cover.png)
 
 
 Dataset: [Polish Bankruptcy Dataset](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data)   
